@@ -1,0 +1,38 @@
+.card{
+    padding: 0px;
+    border: 5px solid #f80909;
+    margin-top: 10px; 
+    background: rgb(255, 186, 197);
+    border-radius: 5px;
+
+
+}
+h3{
+    font-size: 22px;
+}
+.card-body{
+    padding: 0;
+    
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: rgb(0, 0, 8);
+    margin-top: -20px;
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+/* .images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+} */
+ 

@@ -1,0 +1,30 @@
+footer{
+    background: rgb(221, 25, 221);
+    padding : 10px 0;
+    margin-top: 10px;
+    height: 118px;
+    border-radius: 5px;
+  
+}
+
+.sazu ul{
+    display: flex;
+    align-items: space-b;
+    justify-content: center;
+    gap: 200px;
+}
+.sazu .siam{
+    list-style: disc;
+    color: rgb(0, 0, 0);
+   
+}
+.sazu .razu{
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+}
+.sazu li a{
+    color: bisque;
+    font-size: 15px;
+    text-transform: uppercase;
+    
+}

@@ -1,0 +1,6 @@
+.card-parent{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    gap: 10px;
+}
